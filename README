@@ -6,19 +6,18 @@
 
 ## 🔖 Badges
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=flat-square)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)  
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 ![Made by Ayush](https://img.shields.io/badge/Made%20by-Ayush%20Raghuwanshi-orange?style=flat-square)
 
 ---
 
 ## 📸 Preview
 
-![Nike Project Preview](./Assets/Project_preview.png)  
-
+![Preview Image](./Assets/Preview.png)
 
 ---
 
@@ -42,11 +41,11 @@ Check out the live demo of this project here:
 
 ## 🛠️ Tech Stack
 
-| Technology      Purpose                          
-| 
-| HTML5           Page structure                  
-| CSS3            Styling and responsive design   
-| Remix Icons     Icons for search, cart, user, stars 
+| Technology  | Purpose                          
+|-------------|---------------------------------|
+| HTML5       | Page structure                  
+| CSS3        | Styling and responsive design   
+| Remix Icons | Icons for search, cart, user, stars 
 
 ---
 
@@ -74,4 +73,3 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 *Feel free to ⭐ the repository if you like this project!*
-
